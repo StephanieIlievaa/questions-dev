@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are JavaScript Data Types?",
+      "xp": 50,
+      "answers": []
+    },
+    {
+      "id": 2,
+      "question": "Difference between '==' and '==='?",
+      "xp": 30,
+      "answers": []
+    },
+    {
+      "id": 3,
+      "question": "What is 'this' keyword in JavaScript?",
+      "xp": 30,
+      "answers": []
+    },
+    {
+      "id": 4,
+      "question": "What is an Interface with reference to TypeScript?",
+      "xp": 20,
+      "answers": []
+    },
+    {
+      "id": 5,
+      "question": "How to Install Typescript?",
+      "xp": 15,
+      "answers": []
+    },
+    {
+      "id": 6,
+      "question": "Explain Different Data Types in Typescript?",
+      "xp": 30,
+      "answers": []
+    },
+    {
+      "id": 7,
+      "question": "What are the Object-Oriented Principles supported by TypeScript?",
+      "xp": 10,
+      "answers": []
+    },
+    {
+      "id": 8,
+      "question": "What a pop() method in JavaScript is?",
+      "xp": 20,
+      "answers": []
+    },
+    {
+      "id": 9,
+      "question": "What's TypeScript used for?",
+      "xp": 20,
+      "answers": []
+    },
+    {
+      "id": 10,
+      "question": "What are the primitive types in TypeScript?",
+      "xp": 23,
+      "answers": []
+    }
+  ]
+}
