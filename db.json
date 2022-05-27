@@ -2,60 +2,81 @@
   "questions": [
     {
       "id": 1,
+      "name": "John Doe",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/66.jpg",
       "question": "What are JavaScript Data Types?",
       "xp": 50,
       "answers": []
     },
     {
       "id": 2,
+      "name": "Linda Marshall",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/65.jpg",
       "question": "Difference between '==' and '==='?",
       "xp": 30,
       "answers": []
     },
     {
       "id": 3,
+      "name": "Natasha Powell",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/65.jpg",
       "question": "What is 'this' keyword in JavaScript?",
       "xp": 30,
       "answers": []
     },
     {
       "id": 4,
+      "name": "Ray Kelly",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/32.jpg",
       "question": "What is an Interface with reference to TypeScript?",
       "xp": 20,
       "answers": []
     },
     {
       "id": 5,
+      "name": "Mike Wood",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/79.jpg",
       "question": "How to Install Typescript?",
       "xp": 15,
       "answers": []
     },
     {
       "id": 6,
+      "name": "Rhea McLaughlin",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/65.jpg",
       "question": "Explain Different Data Types in Typescript?",
       "xp": 30,
       "answers": []
     },
     {
       "id": 7,
+      "name": "Neil Mitchell",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/86.jpg",
       "question": "What are the Object-Oriented Principles supported by TypeScript?",
       "xp": 10,
       "answers": []
     },
     {
       "id": 8,
+
+      "name": "Leanne Watson",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/65.jpg",
       "question": "What a pop() method in JavaScript is?",
       "xp": 20,
       "answers": []
     },
     {
       "id": 9,
+      "name": "Caroline Green",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/65.jpg",
       "question": "What's TypeScript used for?",
       "xp": 20,
       "answers": []
     },
     {
       "id": 10,
+      "avatarUrl": "https://randomuser.me/api/portraits/men/71.jpg",
+      "name": "Ryan Bell",
       "question": "What are the primitive types in TypeScript?",
       "xp": 23,
       "answers": []
